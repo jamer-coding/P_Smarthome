@@ -82,7 +82,7 @@ void Screen_Output() {
     lcd.setCursor(0, 1);
 
     // Ajouter un message
-    lcd.print("soit!");
+    lcd.print("soit !");
   }
   // Scénario 3
   else if (buttonBuzzerPressed == LOW) {
@@ -113,7 +113,7 @@ void Screen_Output() {
     lcd.setCursor(0, 1);
 
     // Ajouter un message
-    lcd.print("detecte!");
+    lcd.print("detecte !");
   }
 }
 
@@ -123,7 +123,7 @@ void Handle_Delay() {
   // Scénario 3
   if (buttonBuzzerPressed == LOW) {
     // Ajouter un délai
-    delay(6000);
+    delay(1500);
   }
   // Scénario 1 et 2
   else if (buttonLedPressed == LOW || motionDetected == HIGH) {
