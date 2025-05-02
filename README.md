@@ -1,6 +1,2 @@
-# P_Smarthome
-Début : 21.03.2025
-Fin   : 23.05.2025
-
----
-Ce projet a été fait durant le module C216.
+# P_Sys SmartHome Néo Darbellay
+Ce projet a été fait pendant le quatrième trimestre de l'année 2024-2025 du 21 mars au 23 mai 2025 à l'ETML.
